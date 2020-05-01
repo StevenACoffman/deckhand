@@ -1,4 +1,4 @@
-# Deckhand - Covid Computer Science Coding Challenge
+# Deckhand - Socially Distant Computer Science Coding Challenge
 
 Note: this is just for isolated computer science fun, not a real, life-saving project.
 
